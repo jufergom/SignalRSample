@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{0FE3E14C-074A-4801-ABE5-211045F1537F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SignalRSample/Pages/Index.cshtml">
+    <Files>
+      <File FileName="SignalRSample/Pages/Index.cshtml" Line="28" Column="37" />
+      <File FileName="SignalRSample/wwwroot/js/site.js" Line="7" Column="1" />
+      <File FileName="SignalRSample/Hubs/PositionHub.cs" Line="11" Column="49" />
+      <File FileName="SignalRSample/Startup.cs" Line="55" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SignalRSample" expanded="True">
+            <Node name="SignalRSample" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True">
+                  <Node name="microsoft" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SignalRSample PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
